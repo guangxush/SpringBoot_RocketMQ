@@ -30,8 +30,6 @@ public class DefaultProductTest {
 
     /**
      * 发送消息
-     *
-     * 2018年3月3日 zhaowg
      * @throws InterruptedException
      * @throws MQBrokerException
      * @throws RemotingException
